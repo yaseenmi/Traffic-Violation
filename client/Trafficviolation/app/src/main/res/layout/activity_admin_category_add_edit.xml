@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222831"
+    android:orientation="vertical"
+    android:padding="30dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="35dp"
+        android:textColor="@color/white"
+        android:text="Add or edit"
+        android:gravity="center"
+        android:id="@+id/titleEditAdd"
+        android:layout_marginBottom="100dp"/>
+    <EditText
+        android:id="@+id/editAdd_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Category Name"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:layout_marginBottom="50dp"/>
+
+    <EditText
+        android:id="@+id/editAdd_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Category Price"
+        android:inputType="number"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:layout_marginBottom="50dp"/>
+
+    <Button
+        android:id="@+id/editAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="55dp"
+        android:backgroundTint="#ECA16F"
+        android:text="Update or Add Category"
+        android:textColor="@color/white"
+        android:layout_marginBottom="50dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:textColor="@color/white"
+        android:text=""
+        android:gravity="center"
+        android:id="@+id/messageCategory"
+        android:layout_marginBottom="100dp"/>
+</LinearLayout>

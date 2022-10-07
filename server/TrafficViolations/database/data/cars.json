@@ -1,0 +1,132 @@
+[
+    {
+        "id": "749320",
+        "brand": "BMW",
+        "model" : "M3"
+    },
+    {
+        "id": "839201",
+        "brand": "BMW",
+        "model" : "M4"
+    },
+    {
+        "id": "393021",
+        "brand": "BMW",
+        "model" : "M5"
+    },
+    {
+        "id": "635232",
+        "brand": "BMW",
+        "model" : "M6"
+    },
+    {
+        "id": "253932",
+        "brand": "BMW",
+        "model" : "Rad 1"
+    },
+    {
+        "id": "866530",
+        "brand": "BMW",
+        "model" : "Rad 1 Cabrio"
+    },
+    {
+        "id": "102034",
+        "brand": "Dodge",
+        "model" : "Avenger"
+    },
+    {
+        "id": "932041",
+        "brand": "Dodge",
+        "model" : "Caliber"
+    },
+    {
+        "id": "348201",
+        "brand": "Dodge",
+        "model" : "Challenger"
+    },
+    {
+        "id": "853921",
+        "brand": "Dodge",
+        "model" : "Charger"
+    },
+    {
+        "id": "324921",
+        "brand": "Ford",
+        "model" : "Aerostar"
+    },
+    {
+        "id": "432851",
+        "brand": "Ford",
+        "model" : "B-Max"
+    },
+    {
+        "id": "852342",
+        "brand": "Ford",
+        "model" : "C-Max"
+    },
+    {
+        "id": "938531",
+        "brand": "Ford",
+        "model" : "Cortina"
+    },
+    {
+        "id": "457201",
+        "brand": "Ford",
+        "model" : "Cougar"
+    },
+    {
+        "id": "753312",
+        "brand": "Ford",
+        "model" : "Edge"
+    },
+    {
+        "id": "477212",
+        "brand": "Ford",
+        "model" : "Escort"
+    },
+    {
+        "id": "832012",
+        "brand": "Audi",
+        "model" : "80 Avant"
+    },
+    {
+        "id": "984635",
+        "brand": "Audi",
+        "model" : "80 Cabrio"
+    },
+    {
+        "id": "145325",
+        "brand": "Audi",
+        "model" : "A1"
+    },
+    {
+        "id": "843131",
+        "brand": "Audi",
+        "model" : "A2"
+    },
+    {
+        "id": "323432",
+        "brand": "Nissan",
+        "model" : "Almera Tino"
+    },
+    {
+        "id": "993491",
+        "brand": "Nissan",
+        "model" : "Almera"
+    },
+    {
+        "id": "433238",
+        "brand": "Nissan",
+        "model" : "350 Z Roadster"
+    },
+    {
+        "id": "112353",
+        "brand": "Nissan",
+        "model" : "200 SX"
+    },
+    {
+        "id": "194921",
+        "brand": "Nissan",
+        "model" : "100 NX"
+    }
+]

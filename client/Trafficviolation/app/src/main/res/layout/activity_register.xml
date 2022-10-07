@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:background="#222831">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="240dp"
+            android:layout_height="120dp"
+            android:src="@drawable/tew"
+            android:layout_marginBottom="30dp"
+            />
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:hint="username"
+            android:minHeight="48dp"
+            android:textColor="@color/white"/>
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:hint="password"
+            android:minHeight="48dp"
+            android:textColor="@color/white"/>
+
+
+        <EditText
+            android:id="@+id/confirm_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:hint="Confirm password"
+            android:minHeight="48dp"
+            android:textColor="@color/white"/>
+
+        <EditText
+            android:id="@+id/phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:hint="phone"
+            android:inputType="phone"
+            android:minHeight="48dp"
+            android:textColor="@color/white"/>
+
+        <EditText
+            android:id="@+id/model"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:hint="car model"
+            android:minHeight="48dp"
+            android:textColor="@color/white"/>
+
+        <EditText
+            android:id="@+id/brand"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:hint="car brand"
+            android:minHeight="48dp"
+            android:textColor="@color/white"/>
+
+
+        <EditText
+            android:id="@+id/car_plate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:hint="car plate"
+            android:minHeight="48dp"
+            android:textColor="@color/white"
+            android:layout_marginBottom="10dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/returnToLoginText"
+            android:textSize="10dp"
+            android:text="already have account? login"
+            android:textColor="#385FEC"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="end"
+
+            />
+            <Button
+                android:id="@+id/register"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="signup"
+                android:backgroundTint="#237CC3"
+                />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/message"
+            android:textSize="20dp"
+            android:textColor="#3FBF08" />
+
+
+    </LinearLayout>
+</LinearLayout>

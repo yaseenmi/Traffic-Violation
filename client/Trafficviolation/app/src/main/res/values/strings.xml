@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Traffic violation</string>
+    <string name="cars">Cars</string>
+    <string name="categories">Categories</string>
+    <string name="category">Category</string>
+    <string name="violations">Violations</string>
+</resources>
